@@ -27,7 +27,7 @@ def main():
     column = st.container()
     prediction = st.container()
 
-    st.image("img.png")
+    st.image("img.jpg")
 
     with overview:
         st.title("Heart Disease Prediction Zadanie2_s22599")
